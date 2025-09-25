@@ -1,6 +1,6 @@
 # failure_record
 
-## Installation of python package for developers
+## Installation 
 
 ```bash
 conda create --name failure_record python=3.10
